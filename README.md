@@ -1,8 +1,8 @@
 # CADCraft (web) — GitHub Pages mirror
 
-Unmodified web build `cadcraft-web-0.17.0.zip` from the official release
-[storytold/cadcraft v0.17.0](https://github.com/storytold/cadcraft/releases/tag/v0.17.0)
-(SHA256 `161e9ca625a3d0616e36fe946c152534e4dae198194432541eb5bde349aa6ebe`).
+Unmodified web build `cadcraft-web-0.17.1.zip` from the official release
+[storytold/cadcraft v0.17.1](https://github.com/storytold/cadcraft/releases/tag/v0.17.1)
+(SHA256 `dbce95f605807a04f48620de1f71112b10145de7022dc5dd37f9a8e1d6c1270c`).
 
 Open: https://zhvial.github.io/cadcraft/
 
